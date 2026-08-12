@@ -20,3 +20,6 @@ This agent has been rigorously tested against 5 different corporate email edge c
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create a `.env` file and add your `GROQ_API_KEY`.
 4. Run the app: `streamlit run app.py`
+
+#### 🎬 Live Project Demo
+👉 [Watch the 1-Minute Demo Video on Google Drive]https://drive.google.com/file/d/1dLg8pQgFF0QQXwgEBJRjUc0JFltTpxUA/view?usp=sharing
