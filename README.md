@@ -1,25 +1,33 @@
-# AI Email Inbox Triage Agent ✉️
+# AI Email Inbox Triage Agent 🤖💼
 
-A professional production-grade AI Agent that automates corporate inbox sorting, intent classification, and immediate smart draft replies. Powered by Groq API and Llama 3.3.
+An automated, enterprise-ready AI solution that scans corporate inboxes, classifies intent, detects urgency, and drafts professional immediate responses. This optimizes business operations by saving hours of manual inbox management.
 
-## 🚀 Tech Stack
-- **AI Framework:** Groq API (Llama-3.3-70b-versatile)
-- **Frontend/UI:** Streamlit
-- **Environment:** Python 3.x, Python-dotenv
+## 🛠️ Tech Stack
+- **Language:** Python
+- **Framework:** Streamlit
+- **LLM/API:** Groq API (Llama 3.3)
 
-## 🧪 Stress-Tested Scenarios
-This agent has been rigorously tested against 5 different corporate email edge cases:
-1. **Customer Support:** Handles urgent technical bugs and system access issues.
-2. **Sales Inquiry:** Detects bulk purchase interests and schedules product demos.
-3. **Spam/Phishing:** Identifies suspicious links and drafts security warnings.
-4. **Angry Customer:** Calms down upset users with empathetic, high-priority replies.
-5. **Vague Email:** Follows up professionally to gather missing details.
+---
 
-## 📦 How to Run Locally
-1. Clone this repository.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Create a `.env` file and add your `GROQ_API_KEY`.
-4. Run the app: `streamlit run app.py`
+## 🎬 Live Project Demo
+👉 [Watch the 1-Minute Demo Video on YouTube]https://youtu.be/oLTDM9qhwBg
 
-#### 🎬 Live Project Demo
-👉 [Watch the 1-Minute Demo Video on Google Drive]https://drive.google.com/file/d/1dLg8pQgFF0QQXwgEBJRjUc0JFltTpxUA/view?usp=sharing
+---
+
+## 📸 Core Features & Live Preview
+
+### 🔹 Case 1: Urgent Customer Support (Angry Client)
+* **Input Preview:** Automated sorting captures the high-friction language.
+![Image 1](input case-1.png)
+
+* **Output Preview:** Intent is correctly classified as *Support*, Urgency is marked as *High*, and a polite corporate reply is drafted instantly.
+![Image 1](output case-1.png)
+
+---
+
+### 🔹 Case 2: Business & Sales Inquiry (Strategic Partnership)
+* **Input Preview:** Capturing potential leads or partnership pitches automatically.
+![Image 2](input case-2.png)
+
+* **Output Preview:** Classified as *Sales/Inquiry*, Urgency marked as *Medium*, and an automated calendar/follow-up response draft is generated.
+![Image Case 2](output_case-2.png)
